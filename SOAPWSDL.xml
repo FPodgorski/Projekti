@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:xs="http://www.w3.org/2001/XMLSchema" name="Icijepivaservice" targetNamespace="http://tempuri.org/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/">
+  <message name="cjp0Request">
+    <part name="a" type="xs:int"/>
+    <part name="b" type="xs:int"/>
+  </message>
+  <message name="cjp0Response">
+    <part name="return" type="xs:int"/>
+  </message>
+  <message name="cjpdodaj1Request">
+    <part name="a" type="xs:int"/>
+    <part name="b" type="xs:int"/>
+  </message>
+  <message name="cjpdodaj1Response">
+    <part name="return" type="xs:int"/>
+  </message>
+  <portType name="Icijepiva">
+    <operation name="cjp">
+      <input message="tns:cjp0Request"/>
+      <output message="tns:cjp0Response"/>
+    </operation>
+    <operation name="cjpdodaj">
+      <input message="tns:cjpdodaj1Request"/>
+      <output message="tns:cjpdodaj1Response"/>
+    </operation>
+  </portType>
+  <binding name="Icijepivabinding" type="tns:Icijepiva">
+    <binding xmlns="http://schemas.xmlsoap.org/wsdl/soap/" style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="cjp">
+      <operation xmlns="http://schemas.xmlsoap.org/wsdl/soap/" soapAction="urn:cijepiva-Icijepiva#cjp" style="rpc"/>
+      <input>
+        <body xmlns="http://schemas.xmlsoap.org/wsdl/soap/" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="urn:cijepiva-Icijepiva"/>
+      </input>
+      <output>
+        <body xmlns="http://schemas.xmlsoap.org/wsdl/soap/" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="urn:cijepiva-Icijepiva"/>
+      </output>
+    </operation>
+    <operation name="cjpdodaj">
+      <operation xmlns="http://schemas.xmlsoap.org/wsdl/soap/" soapAction="urn:cijepiva-Icijepiva#cjpdodaj" style="rpc"/>
+      <input>
+        <body xmlns="http://schemas.xmlsoap.org/wsdl/soap/" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="urn:cijepiva-Icijepiva"/>
+      </input>
+      <output>
+        <body xmlns="http://schemas.xmlsoap.org/wsdl/soap/" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="urn:cijepiva-Icijepiva"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="Icijepivaservice">
+    <port name="IcijepivaPort" binding="tns:Icijepivabinding">
+      <address xmlns="http://schemas.xmlsoap.org/wsdl/soap/" location="http://localhost:8080/soap/Icijepiva"/>
+    </port>
+  </service>
+</definitions>
+
