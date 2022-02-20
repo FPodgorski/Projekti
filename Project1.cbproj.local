@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.383,=C:\Users\fpodg\Desktop\Projekt\Unit12.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,=C:\Users\fpodg\Desktop\Projekt\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\fpodg\Desktop\Projekt\Unit13.h=C:\Users\fpodg\Desktop\Projekt\Unit12.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,C:\Users\fpodg\Desktop\Projekt\Project1PCH1.h=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,C:\Users\fpodg\Desktop\Projekt\Unit12.cpp=C:\Users\fpodg\Desktop\Projekt\Unit13.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\fpodg\Desktop\Projekt\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,=C:\Users\fpodg\Desktop\Projekt\Unit11.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\fpodg\Desktop\Projekt\Unit2.h=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\fpodg\Desktop\Projekt\Unit13.cpp=C:\Users\fpodg\Desktop\Projekt\Unit12.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\fpodg\Desktop\Projekt\SOAPWSDL.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,=C:\Users\fpodg\Desktop\Projekt\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\fpodg\Desktop\Projekt\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\fpodg\Desktop\Projekt\Unit10.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,=C:\Users\fpodg\Desktop\Projekt\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,C:\Users\fpodg\Desktop\Projekt\Unit12.h=C:\Users\fpodg\Desktop\Projekt\Unit13.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\fpodg\Desktop\Projekt\Cjepljenje.h=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,C:\Users\fpodg\Desktop\Projekt\cijepljenjeSOAP.cpp=C:\Users\fpodg\Desktop\Projekt\cijepljenje.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.862,C:\Users\fpodg\Desktop\Projekt\Project1.cbproj=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=C:\Users\fpodg\Desktop\Projekt\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\fpodg\Desktop\Projekt\Unit2.dfm=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\fpodg\Desktop\Projekt\Cjepljenje.cpp=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,C:\Users\fpodg\Desktop\Projekt\Unit12.dfm=C:\Users\fpodg\Desktop\Projekt\Unit13.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\fpodg\Desktop\Projekt\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,C:\Users\fpodg\Desktop\Projekt\cijepljenjeSOAP.h=C:\Users\fpodg\Desktop\Projekt\cijepljenje.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\fpodg\Desktop\Projekt\cijepljenje.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,=C:\Users\fpodg\Desktop\Projekt\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,C:\Users\fpodg\Desktop\Projekt\Unit4.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Users\fpodg\Desktop\Projekt\cijepljenjeSOAP.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,=C:\Users\fpodg\Desktop\Projekt\cijepljenje.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\fpodg\Desktop\Projekt\Cjepljenje.dfm=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\fpodg\Desktop\Projekt\Unit2.cpp=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\fpodg\Desktop\Projekt\Unit13.dfm=C:\Users\fpodg\Desktop\Projekt\Unit12.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,=C:\Users\fpodg\Desktop\Projekt\Unit14.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

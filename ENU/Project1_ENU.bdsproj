@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">W32ResourceDLL.Personality</Option>
+			<Option Name="ProjectType">ResourceDLL</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{0E264B89-686A-49AD-AC5B-3ECF1557A4BA}</Option>
+		</Option>
+	</PersonalityInfo>
+	<W32ResourceDLL.Personality>
+		<Source>
+			<Source Name="MainSource">Project1.dpr</Source>
+		</Source>
+		<Options>
+			<Options Name="BaseLang">1050</Options>
+			<Options Name="TargetName">..\.\Project1.ENU</Options>
+			<Options Name="BRCC_IncludePath">..\..\..\..\Desktop\Projekt\</Options>
+			<Options Name="Company"></Options>
+			<Options Name="Configuration"></Options>
+			<Options Name="Copyright"></Options>
+			<Options Name="Description"></Options>
+			<Options Name="Trademark"></Options>
+			<Options Name="Product"></Options>
+			<Options Name="ProductVersion"></Options>
+			<Options Name="Title"></Options>
+			<Options Name="FileVersion"></Options>
+			<Options Name="Evidence"></Options>
+			<Options Name="KeyFile"></Options>
+			<Options Name="KeyName"></Options>
+		</Options>
+		<FileList>
+			<File FileName="Cjepljenje.dfm" ContainerId="W32Form" ModuleName="Cjepljenje.dfm"/>
+			<File FileName="Unit10.dfm" ContainerId="W32Form" ModuleName="Unit10.dfm"/>
+			<File FileName="Unit11.dfm" ContainerId="W32Form" ModuleName="Unit11.dfm"/>
+			<File FileName="Unit12.dfm" ContainerId="W32Form" ModuleName="Unit12.dfm"/>
+			<File FileName="Unit2.dfm" ContainerId="W32Form" ModuleName="Unit2.dfm"/>
+			<File FileName="Unit3.dfm" ContainerId="W32Form" ModuleName="Unit3.dfm"/>
+			<File FileName="Unit5.dfm" ContainerId="W32Form" ModuleName="Unit5.dfm"/>
+			<File FileName="Unit6.dfm" ContainerId="W32Form" ModuleName="Unit6.dfm"/>
+			<File FileName="Unit7.dfm" ContainerId="W32Form" ModuleName="Unit7.dfm"/>
+			<File FileName="Project1_DRC.rc" ContainerId="W32RC" ModuleName="Project1_DRC.rc"/>
+		</FileList>
+	</W32ResourceDLL.Personality>
+</BorlandProject>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cijepljenje>
+	<lokacija>
+		<naziv>ada</naziv>
+		<adresa></adresa>
+		<pocetak>30.4.2021</pocetak>
+		<kraj>7.6.2021</kraj>
+		<brp>300</brp>
+	</lokacija>
+	<lokacija>
+		<naziv>daa</naziv>
+		<adresa></adresa>
+		<pocetak>30.4.2021</pocetak>
+		<kraj>7.6.2021</kraj>
+		<brp>500</brp>
+	</lokacija>
+</cijepljenje>
